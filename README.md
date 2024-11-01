@@ -7,6 +7,7 @@ This is a simple and responsive company profile website built with HTML and CSS.
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Sections Overview](#sections-overview)
+- [Webpage](#webpage)
 
 ## Features
 
@@ -21,7 +22,7 @@ This is a simple and responsive company profile website built with HTML and CSS.
 - HTML5
 - Tailwind
 
-## Sections Overview
+gi## Sections Overview
 
 ### 1. Navbar
 
@@ -43,3 +44,8 @@ This is a simple and responsive company profile website built with HTML and CSS.
 ### 5. Comment
 - comment section using form so we can gather people data with age and gender.
 ![comment](/assets/readme/comment.png)
+
+
+## Webpage
+
+- https://ivanwbsn.github.io/assigment-module-1/
