@@ -6,10 +6,7 @@ This is a simple and responsive company profile website built with HTML and CSS.
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
 - [Sections Overview](#sections-overview)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -24,7 +21,7 @@ This is a simple and responsive company profile website built with HTML and CSS.
 - HTML5
 - Tailwind
 
-## Section Overview
+## Sections Overview
 
 ### 1. Navbar
 
